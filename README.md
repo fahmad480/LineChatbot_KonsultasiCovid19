@@ -16,6 +16,7 @@ Hai, projek ini merupakan projek sistem pakar yang memanfaatkan layanan Line Mes
 Ini merupakan projek kuliah untuk mata pelajaran Kecerdasan Buatan, tapi karena lebih condong ke arah sistem pakar, yasudah, kita anggap ini projek sistem pakar, dan ngomong ngomong, projek ini merupakan projek kelompok, berikut anggota kelompoknya
 
 # Kelompok
+Projek ini dibuat untuk memenuhi tugas besar/tugas akhir mata kuliah kecerdasan buatan, prodi informatika, Institut Teknologi Nasional, Bandung
 - (152018070) Faraaz Ahmad Permadi / Ketua
 - (152018036) Maulana Jumantara
 - (152018041) Hanifah Sumantri
